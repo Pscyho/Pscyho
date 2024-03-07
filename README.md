@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pscyho
 - 👀 I’m interested in python ...
-- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Python..
 - 📫 How to reach me gadigeppategginamani8@gmail.com...
 
