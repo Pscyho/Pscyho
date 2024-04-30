@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pscyho
-- 👀 I’m interested in python ...
-- 💞️ I’m looking to collaborate on Python..
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me gadigeppategginamani8@gmail.com...
 
 <!---
