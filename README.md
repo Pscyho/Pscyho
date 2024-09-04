@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pscyho
-- 💞️ I’m looking to collaborate
 - 📫 How to reach me gadigeppategginamani8@gmail.com...
 
 <!---
