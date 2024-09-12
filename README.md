@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pscyho
+- 👋 Hi, I’m @Psycho
 - 📫 How to reach me gadigeppategginamani8@gmail.com...
 
 <!---
