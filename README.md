@@ -9,26 +9,14 @@ I love building systems that bridge **hardware and software** — from low-level
 - **Hardware & Embedded:** Verilog, FPGA, ESP32, Arduino, I2C, SPI
 - **Programming:** C, Python, MATLAB  
 - **Web & Visualization:** WebSockets, React, Node.js 
-- **Tools:** Git, VS Code, KiCad, MATLAB, PyEnv  
+- **Tools:** Git, VS Code, KiCad, MATLAB,  
 
 ---
 
 ## 📌 Featured Projects  
 
 ### 🔹 FPGA & Protocols  
-- **I2C Protocol on FPGA** – Verilog implementation of I2C with full testbench for simulation.  
-- **Polynomial Division in C (FPGA Application)** – Implemented algorithmic solutions with simulation focus.  
-
-### 🔹 IoT & Real-Time Systems  
-- **Vibration Monitoring System** –  
-  - ADXL345 + ESP32-C6 sampling at **1600Hz**.  
-  - Real-time **FFT analysis** for frequency peaks.  
-  - Live dashboard with **WebSockets** for visualization.  
-
-- **Dual-Sensor Synchronization** –  
-  - Two ADXL345 sensors over SPI.  
-  - Real-time FFT on both streams.  
-  - Plotting acceleration, velocity & magnitude spectra.  
+- **I2C Protocol on FPGA** – Verilog implementation of I2C with full testbench for simulation.   
 
 - **Weather Monitoring System** –  
   - ESP32 + DHT22 + Soil Moisture + LDR.  
