@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gadigeppa Tegginamani  
 
-🚀 **Electronics & Communication Engineer | FPGA & Embedded Systems Enthusiast**  
+🚀 **Electronics & Communication Engineer | Embedded Systems Enthusiast**  
 I love building systems that bridge **hardware and software** — from low-level FPGA design to IoT dashboards with real-time data visualization.  
 
 ---
@@ -26,7 +26,7 @@ I love building systems that bridge **hardware and software** — from low-level
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](http://linkedin.com/in/gadigeppa-tegginamani-493b45272/)  
 - 📧 Email:gadigeppategginamani8@gmail.com
-
+- gadigeppa.xyz
 ---
 
 ⭐️ _“Empowering systems with hardware precision & real-time intelligence.”_
