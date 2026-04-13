@@ -26,7 +26,7 @@ I love building systems that bridge **hardware and software** — from low-level
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](http://linkedin.com/in/gadigeppa-tegginamani-493b45272/)  
 - 📧 Email:gadigeppategginamani8@gmail.com
-- gadigeppa.xyz
+- https://gadigeppa.xyz/
 ---
 
 ⭐️ _“Empowering systems with hardware precision & real-time intelligence.”_
